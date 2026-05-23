@@ -1,5 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/171265076?v=4" width="100%">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Deep+Learning+Learner;Building+Real+World+ML+Projects)](https://git.io/typing-svg)
 
 # Hey 👋 I'm Sahil

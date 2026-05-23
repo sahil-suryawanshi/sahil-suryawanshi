@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey 👋 I'm Sahil
 
-<!--
-**sahil-suryawanshi/sahil-suryawanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist & Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I’m passionate about building real-world projects using Machine Learning and Data Science.
+Most of my learning comes from experimenting, building projects, debugging errors, and improving models step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I’m focused on:
+
+* Machine Learning
+* Deep Learning
+* Recommendation Systems
+* Data Analysis & Visualization
+* Model Deployment with Streamlit
+
+I enjoy turning ideas into working applications — from customer behaviour analysis dashboards to movie recommendation systems.
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+* 🎬 Movie Recommendation System
+* 🫁 Lung Disease Prediction Project
+* 📊 Customer Behaviour Analysis Dashboard
+* 🏠 Boston House Price Prediction
+
+---
+
+## 🛠️ Tech Stack
+
+Python • Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib • SQL
+
+---
+
+## 📚 Currently Learning
+
+* Deep Learning
+* NLP & Computer Vision
+* Advanced Machine Learning
+* End-to-End Deployment
+
+---
+
+## 🎯 Goal
+
+To become a skilled AI/ML Engineer who builds intelligent systems that solve real-world problems and create impact through technology.
+
+> “Learning by building.”
+

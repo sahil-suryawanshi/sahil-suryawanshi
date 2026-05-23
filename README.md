@@ -45,9 +45,13 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib • SQ
 
 ## 📊 GitHub Stats
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahil-suryawanshi\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-suryawanshi&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-suryawanshi\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-suryawanshi&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 

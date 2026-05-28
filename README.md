@@ -52,7 +52,7 @@ Python • Pandas • NumPy • Scikit-learn • Streamlit • Matplotlib • SQ
 ## 🌐 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/sahil-suryawanshi-
-* Email: sahilsuryawanshi@gmail.com
+* Email: sahilsuryawanshi217@gmail.com
 
 ---
 
